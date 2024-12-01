@@ -1,6 +1,7 @@
 [tools]
 python = "3.12"
 gcloud = "502.0.0"
+direnv = "latest"
 
 [env]
 _.python.venv = ".venv"
